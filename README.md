@@ -1,4 +1,8 @@
 # Saksen
 Nettside prosjekter
-
-Python django?
+Portfolio  
+Priser
+Forum
+Store
+Blog
+Python django - scaleability?
